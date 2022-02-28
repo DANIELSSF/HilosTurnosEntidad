@@ -1,0 +1,59 @@
+{
+    "Clientes": [
+        {
+            "id": 1,
+            "name": "Daniel",
+            "lastName":"Silva"
+        }, {
+            "id": 2,
+            "name": "Daniel",
+            "lastName": "Paez"
+            
+        }, {
+            "id": 3,
+            "name": "Natalia",
+            "lastName": "Walteros"
+        }, {
+            "id": 4,
+            "name": "Rafael",
+            "lastName": "Gomez"
+        }, {
+            "id": 5,
+            "name": "Maria",
+            "lastName": "Magdalena"
+        }, {
+            "id": 6,
+            "name": "Alma",
+            "lastName": "Gozo"
+        }, {
+            "id": 7,
+            "name": "Victor",
+            "lastName": "Calderon"
+        }, {
+            "id": 8,
+            "name": "Camila",
+            "lastName": "Ballesteros"
+        }, {
+            "id": 9,
+            "name": "Manuel",
+            "lastName": "Torres"
+        }, {
+            "id": 10,
+            "name": "Juan",
+            "lastName": "Godofredo"
+        }, {
+            "id": 11,
+            "name": "Samanta",
+            "lastName": "Sanchez"
+        }, {
+            "id": 12,
+            "name": "Lorena",
+            "lastName": "Gomez"
+        }, {
+            "id": 13,
+            "name": "Luisa",
+            "lastName": "Rodriguez"
+        }
+    ]
+}
+
